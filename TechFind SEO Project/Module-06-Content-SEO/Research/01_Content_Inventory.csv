@@ -1,0 +1,21 @@
+﻿Content_or_Page,Proposed_URL,Format,Primary_Intent,Inventory_Status,Action_or_Constraint
+Laptop hub,/laptops/,Category,Commercial investigation,Proposed from Module 01/03,Requires catalog
+HP laptops,/laptops/hp/,Category,Commercial investigation,Proposed,Only if stocked
+Dell laptops,/laptops/dell/,Category,Commercial investigation,Proposed,Only if stocked
+Lenovo laptops,/laptops/lenovo/,Category,Commercial investigation,Proposed,Only if stocked
+Gaming laptops,/laptops/gaming/,Category,Commercial investigation,Proposed,Only if adequate inventory
+Student laptops,/laptops/student/,Category,Commercial investigation,Proposed,Only if useful distinct selection
+Accessories,/laptop-accessories/,Category,Commercial investigation,Proposed,Requires assortment
+Laptop buying guide,/guides/how-to-choose-a-laptop/,Evergreen guide,Informational,Proposed; no live site content audited,Draft article 01
+Student laptop guide,/guides/laptop-for-university-students/,Evergreen guide,Commercial investigation,Proposed opportunity,Draft article 02
+Laptop comparison guide,/guides/how-to-compare-laptops/,Comparison guide,Commercial investigation,Proposed opportunity,Draft article 03
+HP vs Dell comparison,/guides/hp-vs-dell-laptop/,Comparison,Commercial investigation,Proposed,Needs matched available models
+Laptop price guide,/guides/laptop-prices-pakistan/,Buying guide,Commercial investigation,Proposed opportunity,Must avoid stale prices
+Laptop maintenance guide,/guides/laptop-maintenance/,How-to,Informational,Proposed opportunity,Expert review needed
+Battery care guide,/guides/laptop-battery-care/,How-to,Informational,Proposed opportunity,Use manufacturer-specific source checks
+Laptop slow troubleshooting,/guides/laptop-running-slow/,Troubleshooting,Informational,Proposed opportunity,Safe steps; no unsupported repair claims
+Battery not charging,/guides/laptop-battery-not-charging/,Troubleshooting,Informational,Proposed from Module 03,Safety and model variation caveats
+Laptop accessory compatibility,/guides/laptop-accessory-compatibility/,How-to,Informational,Proposed opportunity,Needs verified compatibility expertise
+Product detail pages,/product/{stable-slug}/,Product,Transactional,Proposed template,SKU-specific verified facts required
+About TechFind,/about/,Trust page,Navigational,Proposed,Verified company facts only
+Delivery/returns/warranty,/delivery/; /returns/; /warranty/,Service pages,Navigational/informational,Proposed,Owner-approved real policies only

@@ -1,0 +1,11 @@
+﻿Crawl_Metric,Result,Reason,Interpretation
+Internal URL count,Not collected,No site/crawl supplied,Unknown; requires live crawl
+2xx/3xx/4xx/5xx status counts,Not collected,No HTTP requests to TechFind possible,Unknown; requires live crawl
+Redirect chains/loops,Not collected,No current URLs or response chains,Unknown; requires live crawl
+Broken internal/external links,Not collected,No crawl graph,Unknown; requires live crawl
+Missing/duplicate titles and descriptions,Not collected,No HTML,Unknown; requires live crawl
+Missing H1 / heading issues,Not collected,No rendered pages,Unknown; requires live crawl
+Canonical tags,Not collected,No HTML response headers,Unknown; requires live crawl
+Robots directives / blocked resources,Not collected,No robots.txt or rendered resource requests,Unknown; requires live crawl
+Crawl depth / orphan URLs,Not collected,No crawlable link graph,Unknown; requires live crawl
+Export evidence,None,No crawler export generated; do not interpret as zero issues,Unknown; requires live crawl

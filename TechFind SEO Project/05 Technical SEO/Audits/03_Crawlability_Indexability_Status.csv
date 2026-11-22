@@ -1,0 +1,9 @@
+﻿Control,Current_Status,Audit_Result,Recommendation
+robots.txt,Unknown,Not assessable — no domain,Request https://{confirmed-domain}/robots.txt; ensure product/category URLs and required rendering resources are crawlable.
+Meta robots,Unknown,Not assessable — no domain,"Inspect rendered HTML of each template and pagination/filter state; noindex is an indexing directive, not crawl block."
+X-Robots-Tag,Unknown,Not assessable — no domain,Inspect response headers for HTML and non-HTML resources.
+Googlebot access,Unknown,Not assessable — no domain,"Test DNS/TLS, server responses, WAF/CDN behavior and URL Inspection in GSC."
+Internal discovery,Unknown,Not assessable — no domain,"Important indexable pages should be reachable through crawlable links, categories, breadcrumbs and sitemap."
+Sitemap,Unknown,Not assessable — no domain,"Submit only canonical, indexable, successful URLs; sitemap submission is a hint, not an indexing guarantee."
+Crawl depth,Unknown,Not assessable — no domain,Measure depth from home in crawl export; reduce excessive depth for priority catalog pages.
+Blocked resources,Unknown,Not assessable — no domain,Check rendered page and Googlebot access; do not block CSS/JS needed to understand page.

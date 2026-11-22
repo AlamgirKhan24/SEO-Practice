@@ -1,0 +1,13 @@
+﻿KPI,Measurement_Source,Method,Current_Value,Reporting_Cadence
+Organic clicks,Google Search Console Performance report,Clicks by page/query and date; compare equivalent periods; annotate releases/seasonality.,Baseline unavailable; no property access.,Monthly after baseline; document filters and changes
+Impressions,Google Search Console Performance report,Impressions by page/query/country (Pakistan); use consistent filters and date ranges.,No data supplied.,Monthly after baseline; document filters and changes
+CTR,GSC clicks ÷ impressions,Segment by query/page/device/country; interpret position and SERP features.,No data supplied.,Monthly after baseline; document filters and changes
+Average position,GSC Performance report,Trend by query/page; average is aggregated and should not be treated as exact rank.,No data supplied.,Monthly after baseline; document filters and changes
+Organic sessions,GA4 acquisition reports with consent/configuration caveats,Use organic search session dimension; compare landing pages and date ranges.,No GA4 property/data.,Monthly after baseline; document filters and changes
+Engaged sessions,GA4 engaged sessions for organic segment,Track alongside landing page and content purpose; not a direct ranking metric.,No data supplied.,Monthly after baseline; document filters and changes
+Conversions,GA4 key events/ecommerce events,"Define purchase and qualified actions; verify tags, consent and attribution settings.",No conversion results.,Monthly after baseline; document filters and changes
+Content-assisted conversions,GA4 attribution/path reports or agreed model,Use one documented attribution model/window; treat as directional.,No data supplied.,Monthly after baseline; document filters and changes
+Landing page engagement,GA4 landing page report,"Review engagement by organic landing page; diagnose content and UX, do not optimize a vanity metric.",No data supplied.,Monthly after baseline; document filters and changes
+Indexing status,Search Console Pages/URL Inspection,Monitor intended indexable guides/categories; distinguish discovered/crawled/indexed states.,No verified property.,Monthly after baseline; document filters and changes
+Content refresh coverage,Editorial log,"Track reviewed date, source check, owner and substantive update by URL.",Process recommendation.,Monthly after baseline; document filters and changes
+Qualified product click-through,GA4 event instrumentation,Measure guide-to-product/category clicks with privacy-respecting event design.,No event setup inspected.,Monthly after baseline; document filters and changes

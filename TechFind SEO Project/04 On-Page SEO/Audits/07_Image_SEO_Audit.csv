@@ -1,0 +1,5 @@
+﻿Image_Context,Filename_Example,Alt_Example,Requirement,Format,Dimension,Loading
+Product hero,dell-inspiron-14-7440-front.webp,"Dell Inspiron 14 7440 laptop, front view","Use only if exact model/view verified; alt describes visible image, not keyword list.",AVIF/WebP where supported; retain suitable fallback,Serve responsive srcset/sizes; intrinsic width/height to reserve layout space,Do not lazy-load likely LCP hero; use eager/high priority only where justified.
+Product ports/detail,dell-inspiron-14-7440-left-ports.webp,Left-side ports on the Dell Inspiron 14 7440,Alt identifies visible detail; avoid inferring unseen ports.,AVIF/WebP,"Responsive, right-sized source",Lazy-load below-fold gallery images.
+Product lifestyle,hp-pavilion-15-keyboard-detail.webp,Close-up of the HP Pavilion 15 keyboard,Describe what image shows; no promotional claims.,AVIF/WebP,Responsive dimensions with stable aspect ratio,Lazy-load when below the initial viewport.
+Decorative icon,delivery-icon.svg,,Empty alt for purely decorative image; adjacent text conveys the meaning.,SVG for simple vector icon,Explicit rendered size,Inline or lazy as appropriate.

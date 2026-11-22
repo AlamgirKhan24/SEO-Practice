@@ -1,0 +1,7 @@
+﻿Check,Observed_Result,Recommendation,Status
+Existing URL inventory,None supplied,No observed status codes,No implementation or verification
+Redirect chain/loop report,Not run,No redirect evidence,No implementation or verification
+404/soft 404/5xx,Not measured,No response samples,No implementation or verification
+Recommended redirect rule,Future change only,Old URL → closest equivalent relevant page via one 301; update internal links/canonical/sitemap; avoid chains and homepage catch-all.,No implementation or verification
+Temporary move,Future change only,Use a temporary redirect only when move is genuinely temporary; verify after restoration.,No implementation or verification
+Removed product,Future change only,"If replaced, redirect to direct successor when equivalent; otherwise return a proper unavailable status and offer useful alternatives where appropriate. Do not redirect every discontinued SKU to category/home.",No implementation or verification

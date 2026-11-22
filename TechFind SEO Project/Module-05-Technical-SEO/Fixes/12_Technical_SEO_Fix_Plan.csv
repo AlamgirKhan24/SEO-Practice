@@ -1,0 +1,11 @@
+﻿Action,Priority,Owner,Reason,Recommended_Fix,Status
+Provide confirmed production/staging origin,Critical,Project owner,"Without a URL, crawling and validation cannot begin.",Provide URL and access constraints.,No site changes
+Protect key templates from accidental noindex/robots block,Critical,Developer + SEO,Could prevent crawling/indexing of primary pages.,Inspect robots/meta/header rules per template and test Googlebot rendering.,Not assessed
+Establish HTTPS and canonical host,High,Platform/hosting,Avoid duplicate host/protocol versions and insecure access.,Verify TLS then one-hop redirects; choose host and normalize links.,Not assessed
+Generate XML sitemap from canonical indexable URLs,High,Developer,Supports discovery of intended pages.,"Validate status, canonical, indexability and freshness; submit in GSC.",Not assessed
+Control facets and sort URLs,High,Developer + SEO,Prevents URL explosion and duplicate/thin indexable variants.,Inventory parameters; implement tested canonical/indexation/crawl policy.,Not assessed
+Measure Core Web Vitals,High,Developer,No baseline exists to prioritize performance work.,Capture PSI/CrUX and Lighthouse lab evidence on key mobile templates.,Not measured
+Validate structured data on visible content,Medium,Developer + SEO,Incorrect markup may be ignored or misleading.,Implement only accurate eligible types and validate actual rendered pages.,Not implemented
+Create redirect/error monitoring process,Medium,Developer,No status/redirect baseline or monitoring.,Crawl staging and production; review logs/Search Console; repair source links.,Not assessed
+Mobile rendering/accessibility QA,Medium,QA + designer,No rendered site to test.,Test product/category/checkout flows on real viewport and keyboard.,Not assessed
+Language/hreflang decision,Low,SEO + owner,Initial plan is single Pakistan English locale.,Do not add hreflang unless separate language/region variants genuinely exist.,Not needed yet

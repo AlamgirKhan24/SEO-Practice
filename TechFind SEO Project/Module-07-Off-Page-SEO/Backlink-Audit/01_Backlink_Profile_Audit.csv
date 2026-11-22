@@ -1,0 +1,11 @@
+﻿Audit_Field,Status,Evidence_or_Action,As_Of
+Live TechFind backlinks,Not assessable,No domain supplied; no backlink index/GSC links export.,2026-11-21
+Referring domains/backlinks,Not available,No Ahrefs/Semrush/Majestic or Search Console export.,2026-11-21
+Link attributes (follow/nofollow/sponsored/UGC),Not available,No backlink rows to classify.,2026-11-21
+Anchor text distribution,Not available,No sample to analyze.,2026-11-21
+New/lost links,Not available,No historical or current comparison.,2026-11-21
+Top linked pages,Not available,No destination URL/link data.,2026-11-21
+Suspicious patterns,Not assessed,No automated toxicity scores reviewed; do not disavow on automated score alone.,2026-11-21
+Verified vs third-party estimates,No measured values,No first-party or third-party metrics supplied.,2026-11-21
+Baseline action,Ready to collect,"Confirm canonical domain; verify GSC property; export provider report with date, scope and filters.",2026-11-21
+Disavow decision,No decision,Manual evidence review and assessment of actual manipulative links required; not a routine response to low-quality-looking links.,2026-11-21

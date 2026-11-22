@@ -1,0 +1,11 @@
+﻿Source_Page,Source_URL,Context,Target_URL,Anchor_Example,Guidance
+Home,/,Laptops navigation,/laptops/,Shop laptops,Primary nav and main content
+Laptop hub,/laptops/,Brand browse module,/laptops/hp/,Browse HP laptops,Only if brand category is useful and stocked
+Laptop hub,/laptops/,Use-case browse module,/laptops/gaming/,Browse gaming laptops,Only if category qualifies
+Brand category,/laptops/hp/,Product card,/product/{stable-model-slug}/,View {Brand} {Model},Use model-specific visible link text
+Product,/product/{stable-model-slug}/,Breadcrumb,/laptops/hp/,HP laptops,Actual parent category only; breadcrumb reflects canonical hierarchy
+Guide,/guides/how-to-choose-a-laptop/,Contextual product criteria,/laptops/,compare available laptops,Link only where passage helps reader take next step
+Guide,/guides/hp-vs-dell-laptop/,Specific reviewed product,/product/{stable-model-slug}/,view {Brand} {Model} specifications,Only when model is in comparison and data verified
+Accessory product,/product/{accessory-slug}/,Compatibility note,/laptop-accessories/,browse laptop accessories,Do not suggest compatibility across devices without evidence
+Footer utility,sitewide,Support navigation,/delivery/,Delivery information,Only if policy page is published and current
+Footer utility,sitewide,Support navigation,/returns/,Returns and refunds,Only if approved terms are published

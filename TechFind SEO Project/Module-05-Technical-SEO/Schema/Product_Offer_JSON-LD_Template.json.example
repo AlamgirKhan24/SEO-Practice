@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{verified product name}",
+  "image": ["https://{confirmed-domain}/{actual-product-image}.webp"],
+  "description": "{accurate visible product description}",
+  "sku": "{actual SKU}",
+  "brand": {
+    "@type": "Brand",
+    "name": "{verified brand}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://{confirmed-domain}/product/{actual-slug}/",
+    "priceCurrency": "{actual ISO 4217 currency}",
+    "price": "{current displayed numeric price}",
+    "availability": "https://schema.org/{actual availability enum}"
+  }
+}

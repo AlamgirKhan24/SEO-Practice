@@ -1,0 +1,13 @@
+﻿Check,Frequency,Tool,Procedure,Status
+Indexability,Weekly,GSC Pages/URL Inspection; crawl,Compare intended canonical/indexable URLs against exclusions; investigate sudden changes.,Not assessed; site unavailable
+Sitemap health,Weekly after deployment; monthly stable,"Fetch sitemap, GSC Sitemaps","Check canonical 200 URLs, redirects/errors, lastmod integrity.",Not assessed; site unavailable
+robots.txt,On release + monthly,Fetch file; robots tester / URL Inspection,Ensure important paths/resources not blocked; record change.,Not assessed; site unavailable
+Canonical tags,Each release; monthly sample,Crawler/rendered HTML,"Check self/selected canonical, parameters, host/protocol.",Not assessed; site unavailable
+Broken internal links,Weekly automated crawl; monthly review,Screaming Frog or suitable crawler,Prioritize templates and high-value destinations.,Not assessed; site unavailable
+Redirect errors,Each release + weekly crawl,Crawler/server logs,"Find chains, loops, unexpected status; update internal sources.",Not assessed; site unavailable
+404 and 5xx,Daily availability monitoring; weekly GSC/log review,"Uptime monitor, server logs, GSC",Distinguish expected removed URLs from broken critical pages.,Not assessed; site unavailable
+Core Web Vitals,Monthly and after major change,PSI/CrUX field + Lighthouse lab,"Record URL, device, location, date, sample; separate field/lab.",Not assessed; site unavailable
+Mobile usability,Each template release; quarterly spot-check,"Browser/device QA, Search Console signals","Test product/category navigation, content parity and checkout.",Not assessed; site unavailable
+Structured data,Each template change; monthly sample,"Rich Results Test, Schema Validator",Visible facts match markup; monitor errors/warnings.,Not assessed; site unavailable
+Duplicate content,Monthly crawl,"Crawler, canonical report","Check facets, variants, pagination and near-duplicate pages.",Not assessed; site unavailable
+Crawl issues/depth,Monthly crawl; weekly important alerts,"Crawler, log files if available","Track discovered URLs, depth, orphan pages and server response.",Not assessed; site unavailable

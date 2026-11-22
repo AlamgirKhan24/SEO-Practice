@@ -1,0 +1,39 @@
+﻿Seed_Keyword,Topic_Cluster,Intent,Selection_Source,Selection_Rationale,Target_Geography,Metric_Status
+laptop price in Pakistan,Laptop price,Commercial investigation,Google autocomplete exact,Directly observed query; core category/price intent.,Pakistan,Not available
+laptop price in Pakistan under 50000,Laptop price,Commercial investigation,Google autocomplete exact,Budget query surfaced in Pakistan autocomplete.,Pakistan,Not available
+gaming laptop price in Pakistan,Gaming laptops,Commercial investigation,Google autocomplete exact,Directly observed category-price query.,Pakistan,Not available
+HP laptop price in Pakistan,HP laptops,Commercial investigation,Google autocomplete exact,Brand + price query surfaced in autocomplete.,Pakistan,Not available
+Dell laptop price in Pakistan,Dell laptops,Commercial investigation,Google autocomplete exact,Brand + price query surfaced in autocomplete.,Pakistan,Not available
+laptop for students in Pakistan,Student laptops,Commercial investigation,Google autocomplete exact,Use-case phrase surfaced in autocomplete.,Pakistan,Not available
+laptop accessories in Pakistan,Accessories,Commercial investigation,Google autocomplete exact,Accessory category surfaced in autocomplete.,Pakistan,Not available
+best laptop price Pakistan,Laptop prices,Commercial investigation,Google SERP/PAA,One Google SERP sample with price/value questions.,Pakistan,Not available
+Lenovo laptop price in Pakistan,Lenovo laptops,Commercial investigation,Module 02 taxonomy,Brand appears in competitor category/navigation observations.,Pakistan,Not available
+Acer laptop price in Pakistan,Acer laptops,Commercial investigation,Module 02 taxonomy,Brand observed in competitor category labels.,Pakistan,Not available
+laptop online Pakistan,Laptop category,Transactional,Module 02 taxonomy,Online-shopping category language seen in competitor audit.,Pakistan,Not available
+buy laptop online Pakistan,Laptop category,Transactional,Candidate expansion,Transactional modifier; validate in live SERPs.,Pakistan,Not available
+used laptop price in Pakistan,Used laptops,Commercial investigation,Module 02 taxonomy,Used/refurbished routes observed at competitor.,Pakistan,Not available
+refurbished laptop Pakistan,Used laptops,Commercial investigation,Module 02 taxonomy,Refurbished/open-box route observed at competitor.,Pakistan,Not available
+business laptop Pakistan,Business laptops,Commercial investigation,Module 02 taxonomy,Business/workstation use cases observed.,Pakistan,Not available
+office laptop Pakistan,Office laptops,Commercial investigation,Module 02 taxonomy,Office/student taxonomy observed.,Pakistan,Not available
+laptop for gaming Pakistan,Gaming laptops,Commercial investigation,Candidate expansion,Use-case category aligned with proposed structure.,Pakistan,Not available
+student laptop price Pakistan,Student laptops,Commercial investigation,Google autocomplete exact,Phrase is a close autocomplete-derived variant.,Pakistan,Not available
+laptop accessories price Pakistan,Accessories,Commercial investigation,Google autocomplete exact,Exact autocomplete suggestion.,Pakistan,Not available
+laptop parts Pakistan,Parts,Commercial investigation,Google autocomplete exact,Related autocomplete term; distinct from accessories.,Pakistan,Not available
+laptop spare parts Pakistan,Parts,Transactional,Google autocomplete exact,Exact autocomplete suggestion with parts intent.,Pakistan,Not available
+laptop buying guide,Buying guides,Informational,Candidate expansion,Supports proposed guide hub.,Pakistan,Not available
+best laptop for university students in Pakistan,Student laptops,Commercial investigation,Candidate expansion,Considered purchase query aligned with audience.,Pakistan,Not available
+best gaming laptop under 200000 PKR,Gaming laptops,Commercial investigation,Candidate expansion,Budget + use case; stock and prices not verified.,Pakistan,Not available
+best laptop for programming students,Student laptops,Commercial investigation,Candidate expansion,Use-case research opportunity.,Pakistan,Not available
+laptop comparison Pakistan,Comparisons,Commercial investigation,Candidate expansion,Comparison guide opportunity.,Pakistan,Not available
+laptop not turning on fix,Troubleshooting,Informational,Candidate expansion,Support content candidate; service capability unknown.,Pakistan,Not available
+laptop charger price Pakistan,Accessories,Commercial investigation,Candidate expansion,Accessory product query.,Pakistan,Not available
+laptop bag price Pakistan,Accessories,Commercial investigation,Candidate expansion,Accessory product query.,Pakistan,Not available
+laptop RAM upgrade Pakistan,Upgrades,Commercial investigation,Candidate expansion,Upgrade query; service/inventory capability unknown.,Pakistan,Not available
+laptop SSD upgrade Pakistan,Upgrades,Commercial investigation,Candidate expansion,Upgrade query; service/inventory capability unknown.,Pakistan,Not available
+Core i5 laptop price Pakistan,Specs,Commercial investigation,Module 02 taxonomy,Core i5 laptop wording observed in marketplace tags.,Pakistan,Not available
+laptop 8GB RAM price Pakistan,Specs,Commercial investigation,Candidate expansion,Configuration query; verify with catalog.,Pakistan,Not available
+laptop 16GB RAM price Pakistan,Specs,Commercial investigation,Candidate expansion,Configuration query; verify with catalog.,Pakistan,Not available
+laptop with SSD price Pakistan,Specs,Commercial investigation,Candidate expansion,Configuration query; verify with catalog.,Pakistan,Not available
+laptop delivery Pakistan,Service,Navigational,Candidate expansion,Operational query only if delivery details are confirmed.,Pakistan,Not available
+laptop warranty Pakistan,Service,Informational,Candidate expansion,Warranty question; publish only verified terms.,Pakistan,Not available
+laptop return policy Pakistan,Service,Informational,Candidate expansion,Policy query; publish only approved policy.,Pakistan,Not available

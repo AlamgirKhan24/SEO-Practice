@@ -1,0 +1,8 @@
+﻿Metric,Result,Evidence,Next_Step,Status
+LCP,Not measured,No PageSpeed Insights/Lighthouse URL or CrUX field data available.,"Optimize main product image, server response, critical rendering only after waterfall/profile.",Not measured; no scores fabricated
+INP,Not measured,No field data or interaction profiling.,"Profile search, filters, variant selection, cart and menus; reduce long main-thread work.",Not measured; no scores fabricated
+CLS,Not measured,No field/lab run.,Reserve image/ad/widget dimensions; avoid late injected banners and font shifts.,Not measured; no scores fabricated
+FCP,Not measured,No Lighthouse run.,"Review server response, render blocking and critical CSS after lab trace.",Not measured; no scores fabricated
+TBT,Not measured,No Lighthouse run.,Use as lab diagnostic only; identify long tasks and third-party JS.,Not measured; no scores fabricated
+Speed Index,Not measured,No Lighthouse run.,Use only as lab metric from recorded test conditions.,Not measured; no scores fabricated
+Field vs lab distinction,Unavailable,No CrUX/PSI field data and no Lighthouse lab report.,"Record device, URL, location, date, run count and field/lab source for future comparisons.",Not measured; no scores fabricated

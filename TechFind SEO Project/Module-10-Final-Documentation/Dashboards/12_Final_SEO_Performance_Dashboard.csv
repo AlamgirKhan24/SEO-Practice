@@ -1,0 +1,14 @@
+﻿Section,Metric,Data_Source,Actual_Value,Instruction
+Organic Search,Clicks,GSC Performance export,Not available,Populate after verified property; filter Pakistan and date range.
+Organic Search,Impressions,GSC Performance export,Not available,No actual data; do not substitute estimates.
+Organic Search,CTR,"GSC clicks ÷ impressions, same filters",Not available,Calculate when source data exists.
+Organic Search,Average position,GSC Performance,Not available,Aggregate/directional; not exact rank.
+Traffic,Organic sessions,GA4 acquisition report,Not available,No GA4 property.
+Traffic,Engaged sessions / engagement rate,GA4,Not available,Use diagnostically.
+Keywords,Candidate keyword rankings,Rank tracker + GSC query/page,Not measured,15 candidates in Module 09 tracker; no positions.
+Technical SEO,Indexed/non-indexed pages,GSC Pages + intended URL inventory,Not assessed,No site or property.
+Technical SEO,Core Web Vitals field/lab status,CrUX/PSI and Lighthouse,Not measured,Keep field and lab separate.
+Content,Article impressions/clicks/sessions,GSC + GA4,Not available,Content drafts unpublished.
+Backlinks,New/lost links/referring domains,GSC Links + provider + manual validation,Not available,No domain/profile.
+Conversions,Product views/cart/checkout/purchase,GA4 events + backend,Not implemented,No site/commerce integration.
+Reporting date,As of,Project documentation snapshot,2026-11-21,Documentation date only; not a performance period.

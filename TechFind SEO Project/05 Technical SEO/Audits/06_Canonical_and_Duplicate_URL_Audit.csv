@@ -1,0 +1,9 @@
+﻿URL_Pattern,Observed_Status,Recommendation,Implementation
+HTTP vs HTTPS,Unknown,Select HTTPS as canonical origin; redirect HTTP to HTTPS in one hop after certificate works. Update internal links and sitemap.,Pending live URL and platform inspection
+www vs non-www,Unknown,"Choose one host, redirect alternate host in one hop; align canonical and sitemap.",Pending live URL and platform inspection
+Trailing slash,Unknown,Choose one normalized pattern for folders; redirect duplicates only after URL inventory.,Pending live URL and platform inspection
+Product variants,Unknown,Use a distinct canonical product URL only for materially distinct purchasable variants; avoid duplicate category-path URLs.,Pending live URL and platform inspection
+Filters/sort/search parameters,Unknown,Inventory parameter behavior. Prevent crawl traps; canonicalize to base category only when page content is equivalent. Use noindex or crawl controls only with tested design.,Pending live URL and platform inspection
+Pagination,Unknown,Keep crawlable pagination links and self-referencing canonical per paginated page when each page is needed; do not canonicalize all pages to page one blindly.,Pending live URL and platform inspection
+HTTP query/duplicate URLs,Unknown,Compare rendered content and intended user/search value before consolidating. Preserve useful URLs and redirect retired equivalents.,Pending live URL and platform inspection
+Faceted page indexation,Unknown,"Decide in Module 05 implementation after CMS rules, search demand, and inventory are inspected; avoid blanket robots disallow that prevents crawling canonical/noindex signals.",Pending live URL and platform inspection

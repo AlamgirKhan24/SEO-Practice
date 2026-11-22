@@ -1,0 +1,13 @@
+﻿Area,Priority,Status,Evidence_or_Finding,Fix_Status
+Site availability,Critical,Not assessable,No TechFind domain or staging URL supplied.,No fix implemented or verified; live environment unavailable
+HTTP/HTTPS and certificate,Critical,Not assessable,"No host to request; TLS, redirect and mixed-content checks not run.",No fix implemented or verified; live environment unavailable
+Crawl/indexability controls,High,Not assessable,"robots.txt, meta robots, X-Robots-Tag, canonical and Googlebot access unknown.",No fix implemented or verified; live environment unavailable
+XML sitemap,High,Not assessable,No sitemap URL supplied or discoverable for TechFind.,No fix implemented or verified; live environment unavailable
+Crawl health and internal URLs,High,Not assessable,"No Screaming Frog crawl, URL export, HTML or site to crawl.",No fix implemented or verified; live environment unavailable
+Canonical/duplicate URLs,High,Not assessable,No live route patterns or parameter behavior available.,No fix implemented or verified; live environment unavailable
+Core Web Vitals / PageSpeed,High,Not assessed,No PSI/Lighthouse URL run; field and lab metrics unavailable.,No fix implemented or verified; live environment unavailable
+Mobile usability,High,Not assessed,No responsive pages or mobile rendering to inspect.,No fix implemented or verified; live environment unavailable
+Structured data,Medium,Not assessed,No rendered markup to inspect or validate.,No fix implemented or verified; live environment unavailable
+Redirects and HTTP statuses,High,Not assessable,No URL list or server access; no 3xx/4xx/5xx measurements.,No fix implemented or verified; live environment unavailable
+Internationalization,Low,Planning recommendation,Module 01 proposes one Pakistan-serving English experience initially; no language URLs exist to inspect.,No fix implemented or verified; live environment unavailable
+Security review scope,Medium,Not assessed,Technical SEO checks are not a penetration/security audit.,No fix implemented or verified; live environment unavailable

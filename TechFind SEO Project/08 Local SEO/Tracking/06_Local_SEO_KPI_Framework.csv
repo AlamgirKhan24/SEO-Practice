@@ -1,0 +1,11 @@
+﻿KPI,Measurement,Actual_Status,Target
+GSC local organic impressions,Search Console Performance: query/page/country/device; use Pakistan filter and local-intent query set.,Not available; no verified TechFind property.,Establish baseline after real site/location/tracking setup; no invented numeric target.
+GSC local organic clicks,Same report; segment location-modified queries and actual location pages.,Not available.,Establish baseline after real site/location/tracking setup; no invented numeric target.
+CTR / average position,GSC by query/page with date comparison; averages are not exact rank observations.,Not available.,Establish baseline after real site/location/tracking setup; no invented numeric target.
+Local landing page sessions,GA4 landing page + session source/medium; filter proposed locations after real pages launch.,No site/GA4 property.,Establish baseline after real site/location/tracking setup; no invented numeric target.
+Enquiries / calls,"GA4 key events or CRM/call log with consent/privacy checks; track qualified leads, not just clicks.",No tracking.,Establish baseline after real site/location/tracking setup; no invented numeric target.
+Direction requests,Eligible GBP performance metrics if profile is approved; compare reporting windows.,No GBP profile; eligibility unknown.,Establish baseline after real site/location/tracking setup; no invented numeric target.
+GBP calls / website clicks,GBP performance if eligible; reconcile with GA4 and possible attribution limits.,Not applicable now.,Establish baseline after real site/location/tracking setup; no invented numeric target.
+Conversions / revenue,GA4 ecommerce events/CRM; define attribution model and consent configuration.,No store/data.,Establish baseline after real site/location/tracking setup; no invented numeric target.
+Citation consistency,Manual audit of verified name-address-phone against authoritative records.,No confirmed NAP.,Establish baseline after real site/location/tracking setup; no invented numeric target.
+Review response rate/time,Review log; monitor response quality and unresolved issues.,No review profiles/data.,Establish baseline after real site/location/tracking setup; no invented numeric target.

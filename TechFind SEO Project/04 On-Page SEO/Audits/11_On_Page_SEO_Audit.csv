@@ -1,0 +1,12 @@
+﻿Audit_Area,Severity,Finding_Status,Finding_or_Action,Implementation_Status
+Actual crawl / page source inspection,Critical,Not assessable,"No live domain, staging URL, CMS export, or rendered HTML supplied. Request access/export before any actual findings.",No live implementation performed
+Existing title/description duplicates or missing fields,High,Not assessable,Current metadata is unknown; proposed drafts are not evidence of current defects.,No live implementation performed
+Heading hierarchy and missing H1,High,Not assessable,Rendered headings unavailable.,No live implementation performed
+"Image alt, dimensions, compression, and loading",Medium,Not assessable,Image assets and HTML unavailable; examples are recommendations.,No live implementation performed
+URL redirects/canonical integrity,High,Not assessable,"No current URLs, server responses, or index data. No redirect should be changed based on proposed slugs alone.",No live implementation performed
+Internal links and broken destinations,High,Not assessable,No crawl/link graph. Proposed links require real routes.,No live implementation performed
+Thin/duplicate category and product copy,High,Conditional risk,Avoid publishing near-empty brand/use-case pages; unique content requires actual assortment.,No live implementation performed
+Keyword cannibalization,Medium,Potential risk,Keep one primary page per intent; Module 03 mapping is provisional.,No live implementation performed
+"Unsupported prices, stock, specs, warranty, policy claims",Critical,Preventive requirement,Populate only from verified business/catalog feeds and approved policies.,No live implementation performed
+"Mobile readability, accessibility and CTA usability",Medium,Not assessed,"No site or device testing; implement semantic labels, keyboard support, visible focus and responsive layouts.",No live implementation performed
+Structured data accuracy,High,Recommendation only,Use Product/Offer only from visible accurate product data; validate after implementation. No markup inspected.,No live implementation performed

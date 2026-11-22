@@ -1,0 +1,10 @@
+﻿Metric,Status,Geography,Source,Interpretation
+Average monthly search volume,Not available,Pakistan,No Google Keyword Planner export/account report supplied or accessible,No numeric volume asserted.
+Organic keyword difficulty,Not available,Pakistan,No Ahrefs/Semrush/other keyword dataset accessible,Do not infer difficulty from Google Ads competition.
+CPC,Not available,Pakistan,No Keyword Planner or paid-tool export,No numeric CPC asserted.
+Google Ads competition,Not available,Pakistan,No Keyword Planner export,This is a paid auction metric and would not equal organic KD.
+Autocomplete phrases,Observed qualitative suggestions,"Pakistan; Google footer showed Malakand, from IP",Google Search Autocomplete; observed 21 Nov 2026,"Suggestion occurrence is not search volume and may vary by location, history and time."
+Google Trends,No readable chart values captured,Pakistan (geo=PK),"https://trends.google.com/trends/explore?geo=PK%26q=laptop%20price%20in%20Pakistan,gaming%20laptop,student%20laptop",No trend index or direction claimed.
+Google Search results / PAA,One qualitative SERP sample,Pakistan; 21 Nov 2026,https://www.google.com/search?q=best+laptop+price+Pakistan,PAA/value questions inform ideas only; not ranking or volume proof.
+Google Search Console,Unavailable,Pakistan,No TechFind domain/property or GSC export supplied,No first-party query impressions or clicks.
+Competitor rankings,Not verified,Pakistan,Module 02 visible page taxonomy only,No competitor keyword positions asserted.

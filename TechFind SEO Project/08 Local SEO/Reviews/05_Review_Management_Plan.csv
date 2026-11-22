@@ -1,0 +1,7 @@
+﻿Control,Policy
+Request timing,After a genuine completed customer interaction; send one neutral request to all eligible customers through an owned channel.
+No incentives,"Never offer gifts, discounts or benefits for a review or positive sentiment."
+No gating,Do not ask only happy customers to post publicly or suppress negative feedback.
+Monitor,Assign an owner to check public reviews regularly and escalate safety/privacy/legal issues through appropriate processes.
+Privacy,Do not disclose order details or personal information in public replies; move account specifics to a private support channel.
+Authenticity,"Do not write, buy, fabricate, or ask staff/family to pose as customers."

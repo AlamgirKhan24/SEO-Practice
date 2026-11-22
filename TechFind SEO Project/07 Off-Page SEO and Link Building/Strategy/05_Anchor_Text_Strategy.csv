@@ -1,0 +1,9 @@
+﻿Anchor_Type,Example,Use,Guidance
+Branded,TechFind,Brand/entity reference; natural editorial mentions.,Preferred when context refers to the business.
+Branded + topic,TechFind laptop buying guide,Natural brand plus useful asset; only when article genuinely relevant.,Use editorially; do not prescribe exact wording.
+Naked URL,techfind.example,Direct URL attribution; replace placeholder with confirmed domain.,No domain exists yet; no live anchor example available.
+Generic,this guide,Contextual but less descriptive.,Use when surrounding copy explains the destination.
+Partial match,laptop buying checklist from TechFind,Descriptive topical anchor with brand.,Only when destination is actually a checklist.
+Descriptive natural,compare the laptop specifications,Explain destination; avoid forcing a target keyword.,Use precise anchor that fits sentence.
+Exact match,laptop price in Pakistan,Exact query phrase.,Use sparingly and naturally; never demand it in outreach.
+Image link,TechFind laptop comparison chart,Image attribution/link.,Provide useful alt for informative image; alt is not a lever for keyword anchors.

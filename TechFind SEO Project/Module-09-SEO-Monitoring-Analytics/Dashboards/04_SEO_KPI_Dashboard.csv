@@ -1,0 +1,7 @@
+﻿Section,Metrics,Source,Filter_or_Interpretation,Actual_Value
+Organic Search Performance,"Clicks, Impressions, CTR, Average Position",GSC Performance export,Country=Pakistan; compare same date ranges; filters recorded.,Not available — no TechFind properties/data
+Website Traffic,"Organic sessions/users, engaged sessions, engagement rate",GA4 acquisition + landing page reports,Define organic source/medium and consent behavior.,Not available — no TechFind properties/data
+Keyword Performance,"Candidate keyword, intent, target URL, rank/position change",Ranking tracker + GSC query/page,Never label GSC average position as exact rank.,Not available — no TechFind properties/data
+Technical SEO,"Indexed/non-indexed intended URLs, errors, CWV status","GSC, crawl exports, PSI/CrUX",Keep crawl/lab/field data separate.,Not available — no TechFind properties/data
+Backlinks,"New/lost links, referring domains, relevance",GSC Links + provider snapshots,Provider counts are estimates; manually verify key changes.,Not available — no TechFind properties/data
+Conversions,"Item views, add-to-cart, checkout, purchase, rate",GA4 ecommerce events,"Validate events, currency, deduplication and consent before interpreting.",Not available — no TechFind properties/data

@@ -1,0 +1,9 @@
+﻿Analysis_Area,Metrics_or_Method,Source,Interpretation,Current_Status
+Organic trend,"Sessions, users, clicks, impressions over matched periods",GA4 + GSC,"Annotate site releases, seasonality, campaigns, tracking changes.",No baseline.
+Landing pages,Organic landing sessions/clicks/conversions by URL,GA4 + GSC Pages,Segment page type and Pakistan/device; compare intent and stock states.,No page data.
+High performers,Pages improving qualified clicks and conversions,GSC + GA4,Preserve and expand useful content; verify attribution.,No results.
+Low performers,Pages with impressions but weak CTR/conversion or declining demand,GSC + GA4,"Check title/snippet, intent, position, inventory, UX and cannibalization.",No results.
+Device/country,Sessions and search performance by device/country,GA4 + GSC,Pakistan is target; check other countries separately.,No data.
+Engagement,"Engaged sessions, key events and landing behavior",GA4,"Use as diagnostic, not ranking factor.",No data.
+Traffic decline investigation,"Compare GSC clicks/impressions and GA4 sessions; segment page/query/device/country; inspect releases, indexing, availability, seasonality and tracking.","GSC, GA4, crawl/release log",Find date onset and affected template before acting.,Workflow only.
+Traffic increase investigation,"Identify query/page/device/country driving change; check SERP, links, content/release and conversions; confirm sustained trend.","GSC, GA4, backlink log",Avoid attributing correlation to one change without evidence.,Workflow only.
